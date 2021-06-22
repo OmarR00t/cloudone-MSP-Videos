@@ -22,6 +22,6 @@ This repo will demonstrate how to setup cloud one for MSP from A-Z + demo  as vi
 
 # The High level desgin of cloud one msp 
 
-![](s.png)
+![](HLD.png)
 
 Best of luck and happy MSP :)
