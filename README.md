@@ -1,4 +1,4 @@
-# cloudoneMSP-onboarding
+# CloudoneMSP-Onboarding
 
 Hello there :)
 
