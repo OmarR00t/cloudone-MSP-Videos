@@ -7,7 +7,7 @@ Hello there :)
 This repo will demonstrate how to setup cloud one for MSP from A-Z + demo  as videos  and it contains:  
 
 
-1-[How to create master account of the MS](https://drive.google.com/file/d/1KucHe2akteMaH2nKOJBVlHa4JspZYYzl/view?usp=sharing)
+1-[How to create master account of the MSP](https://drive.google.com/file/d/1KucHe2akteMaH2nKOJBVlHa4JspZYYzl/view?usp=sharing)
 
 
 2-[How to create child account via aws organization(this aws account for cutomer billing and the msp will manage it](https://drive.google.com/file/d/1Wz0WvvnPKlblBbW1h6JDWuAqPpht2ct-/view?usp=sharing)
